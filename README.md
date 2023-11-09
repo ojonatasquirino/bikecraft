@@ -3,8 +3,7 @@
 ##### Em processo de codificação.
 
 Este é um site de motocicletas que estou construindo para a aplicação dos fundamentos do desenvolvimento web. 
-Neste projeto apresento as minhas habilidades aprendidas com o CSS e JavaScript Modernos. 
-Em breve o deploy estará disponível para navegação.
+Neste projeto apresento as minhas habilidades aprendidas com o CSS e JavaScript Modernos.  Em breve o deploy e as sessões de layout do projeto estarão disponíveis neste ReadME.
 
 ## Ambiente e ferramentas de estudo
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
