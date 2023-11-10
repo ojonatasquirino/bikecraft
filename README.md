@@ -1,7 +1,7 @@
 # bikecraft
 
-##### Projeto em processo de codificação.
-
+### Layout em processo de codificação.
+#
 Este é um site de motocicletas que estou construindo para a aplicação dos fundamentos do desenvolvimento web. 
 Neste projeto apresento as minhas habilidades aprendidas com o CSS e JavaScript Modernos.  Em breve o deploy e as sessões de layout do projeto estarão disponíveis neste ReadME.
 
