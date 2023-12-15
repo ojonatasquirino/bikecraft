@@ -1,7 +1,7 @@
 <h1 align='center'> bikecraft </h1>
 
 Este é um site de motocicletas que estou construindo para a aplicação dos fundamentos do desenvolvimento web. 
-Neste projeto apresento as minhas habilidades aprendidas com o CSS e JavaScript Modernos.  Em breve o deploy e as sessões de layout do projeto estarão disponíveis neste ReadME.
+Neste projeto apresento as minhas habilidades aprendidas com o CSS e JavaScript Modernos. 
 
 ## ambiente e ferramentas de codificação
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
