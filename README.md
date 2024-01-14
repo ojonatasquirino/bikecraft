@@ -67,7 +67,7 @@ A jornada de desenvolvimento do Bikecraft concentrou-se na implementação de t�
 Clone este repositório usando o comando:
 
 ```bash
-git clone https://github.com/ojonatasquirino/bikecraft
+git clone https://github.com/ojonatasquirino/bikecraft.git
 ```
 
 Instale na pasta do projeto as dependências com uso do npm ou yarn:
